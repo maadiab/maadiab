@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 -->
 # 🇸🇩
 
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning
 - 💬 Ask me about HTML, CSS, SASS
 - 📫 How to reach me: mohanad_diab@live.com
