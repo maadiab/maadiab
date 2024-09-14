@@ -20,7 +20,7 @@
 
 ###
 
-<! -- <div align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/maadiab/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -30,13 +30,13 @@
   <a href="mohanad.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-</div> -->
+</div> 
 
 ###
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maadiab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=maadiab&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
+-->
 ###
